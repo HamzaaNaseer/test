@@ -1,1 +1,1 @@
-export const BACKEND = "http://192.168.100.55:8080";
+export const BACKEND = "http://3.111.32.197:8080";
